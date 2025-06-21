@@ -11,7 +11,7 @@ const options = {
     },
     servers: [
       {
-        url: "http://localhost:5000", // matches the dev URL
+        url: "http://localhost:3000", // matches the dev URL
       },
     ],
   },
